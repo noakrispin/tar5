@@ -2,7 +2,6 @@
   "name": "src",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
   "type": "module",
   "scripts": {
     "dev": "parcel ./index.html -p3032 --no-source-maps",
